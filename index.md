@@ -1,1 +1,5 @@
-# Welcome to my ePortfolio
+---
+layout: page
+title: Home
+---
+Welcome to my ePortfolio! 
